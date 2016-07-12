@@ -1,6 +1,5 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Lycee Card List}
+
+# ${1:Project LCL}
 Download and sort the information of the Lycee cards
 ## Installation
 Environment: python 2.7.10
@@ -25,8 +24,3 @@ AXL
 This is the first complete project I've inplemented web crawler with python beautifoulsoup library.
 If you have any advice for me to improve my skill. Please leave your comments. Thank you.
 ]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
-
-
-This is the project to download all information from http://adlyrs.ddo.jp/lycee/. All information was stored in 
