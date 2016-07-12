@@ -1,5 +1,5 @@
 
-# ${1:Project LCL}
+# Project LCL
 Download and sort the information of the Lycee cards
 ## Installation
 Environment: python 2.7.10
